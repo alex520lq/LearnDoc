@@ -1,9 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T08:57:08.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4tuoxuf_Y0y5ieOuYK9H" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T09:13:25.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="l1JRPLhIl4FAf7Hx78Bn" version="22.1.21" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1343" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1343" dy="707" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-1" value="" style="endArrow=none;dashed=1;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="210" as="sourcePoint" />
+            <mxPoint x="830" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-2" value="" style="endArrow=none;dashed=1;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="370" as="sourcePoint" />
+            <mxPoint x="830" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-3" value="" style="endArrow=none;dashed=1;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7" y="520" as="sourcePoint" />
+            <mxPoint x="827" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-4" value="" style="endArrow=none;dashed=1;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="720" as="sourcePoint" />
+            <mxPoint x="820" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KeRX0-kgljP5DhFxj-Bx-6" target="KeRX0-kgljP5DhFxj-Bx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-6" value="Awake" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KeRX0-kgljP5DhFxj-Bx-7" target="KeRX0-kgljP5DhFxj-Bx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-7" value="Start" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KeRX0-kgljP5DhFxj-Bx-9" target="KeRX0-kgljP5DhFxj-Bx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-9" value="Update&lt;br&gt;(First Frame)" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-11" value="Update&lt;br&gt;(second frame)" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-13" value="GameFrame启动流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;fontStyle=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="342.5" y="7" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KeRX0-kgljP5DhFxj-Bx-14" target="KeRX0-kgljP5DhFxj-Bx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-14" value="GameFrameworkCompoent.Awake" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="60" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KeRX0-kgljP5DhFxj-Bx-15" target="KeRX0-kgljP5DhFxj-Bx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-15" value="GameEntry.RegisterCompoent" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="110" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KeRX0-kgljP5DhFxj-Bx-17" target="KeRX0-kgljP5DhFxj-Bx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-17" value="GameFrameworkEntry.CreateModule" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="160" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-19" value="注册Component到GameEntry&lt;br&gt;以便在其他地方访问" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="60" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-20" value="实例化GameFrameModule并注册" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="110" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KeRX0-kgljP5DhFxj-Bx-21" target="KeRX0-kgljP5DhFxj-Bx-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-21" value="GameFrameworkCompoent.Start" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="220" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KeRX0-kgljP5DhFxj-Bx-23" target="KeRX0-kgljP5DhFxj-Bx-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-23" value="初始化Component" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="270" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KeRX0-kgljP5DhFxj-Bx-25" target="KeRX0-kgljP5DhFxj-Bx-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-25" value="实例化并设置Helper" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="320" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KeRX0-kgljP5DhFxj-Bx-27" target="KeRX0-kgljP5DhFxj-Bx-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-27" value="ProcedureComponent.yield WaitForEndOfFrame" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="395" width="380" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-28" value="ProcedureComponent中的&lt;br&gt;Start方法以协程方式启动，&lt;br&gt;并等待一帧" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="643" y="398" width="179" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KeRX0-kgljP5DhFxj-Bx-30" target="KeRX0-kgljP5DhFxj-Bx-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-30" value="ProcedureManager.StartProcedure" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="540" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-32" value="流程管理器启动入口流程" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="545" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-33" value="ProcedureLaunch.OnEnter" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="620" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRX0-kgljP5DhFxj-Bx-34" value="进入游戏启动流程" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="625" width="310" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
